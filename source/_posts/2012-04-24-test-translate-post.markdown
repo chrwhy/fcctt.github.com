@@ -5,7 +5,8 @@ date: 2012-04-24 13:24
 comments: true
 categories: 
 ---
-Welcome to the first issue of Full Circle for 2012!
+<!-- Welcome to the first issue of Full Circle for 2012! -->
+欢迎来到2012年首期 Full Circle！
 
 Happy new year! I hope all of you had a great holiday season and that you're ready for more Full Circle. This month we have an article on Enlightenment17 (aka: E17) and which distros have, and had, E17. I haven't tried it in quite some time, but I'm tempted to install Bodhi on my laptop. Oh, and Greg is hoping to return next month with his Python articles. He's a bit busy with real life at the moment. But, fear not, the LibreOffice and Backup articles continue. This month Allan looks at DropBox. Last month we looked at creating a persistent USB stick. This month we take it one step further and create an encrypted USB stick. And if you run a web server you'll want to take a look at our article on Varnish web cache.
 
